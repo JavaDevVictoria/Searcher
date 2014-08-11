@@ -1,0 +1,11 @@
+C:\Vicky\Visual Studio\Searcher\Searcher\bin\Debug\Searcher.exe
+C:\Vicky\Visual Studio\Searcher\Searcher\bin\Debug\Searcher.pdb
+C:\Vicky\Visual Studio\Searcher\Searcher\bin\Debug\Searcher.xml
+C:\Vicky\Visual Studio\Searcher\Searcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Vicky\Visual Studio\Searcher\Searcher\obj\x86\Debug\Searcher.Form1.resources
+C:\Vicky\Visual Studio\Searcher\Searcher\obj\x86\Debug\Searcher.Resources.resources
+C:\Vicky\Visual Studio\Searcher\Searcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Vicky\Visual Studio\Searcher\Searcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Vicky\Visual Studio\Searcher\Searcher\obj\x86\Debug\Searcher.exe
+C:\Vicky\Visual Studio\Searcher\Searcher\obj\x86\Debug\Searcher.xml
+C:\Vicky\Visual Studio\Searcher\Searcher\obj\x86\Debug\Searcher.pdb
